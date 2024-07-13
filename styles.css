@@ -1,0 +1,80 @@
+    thead {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background-color: #F7ECDF;
+    }
+
+    a:lang(ar),
+    a:lang(ckb),
+    a:lang(kk-arab),
+    a:lang(mzn),
+    a:lang(ps),
+    a:lang(ur) {
+      text-decoration: none;
+    }
+
+    table {
+      font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+      font-size: 12px;
+      background: #fff;
+      margin: 2rem 0;
+      width: 480px;
+      border-collapse: collapse;
+      text-align: left;
+    }
+
+    table thead th {
+      font-size: 14px;
+      font-weight: normal;
+      color: #039;
+      padding: 10px 8px;
+      border-bottom: 2px solid #6678b1;
+    }
+
+    table td {
+      color: #669;
+      padding: 9px 8px 0px 8px;
+      border: 1px solid #DDD;
+
+    }
+
+    table tbody tr:hover td {
+      color: #009;
+    }
+
+    .bodyContent {
+      padding: 2rem 0rem;
+      line-height: 1.5;
+      max-width: 80rem;
+      margin: auto;
+    }
+
+    .toc {
+      width: auto;
+      padding: 2rem;
+    }
+
+    .content {
+      padding: 2rem 4rem;
+    }
+
+    .stat_themes {
+      width:100%;
+    }
+    
+    .stat_theme {
+      float:left;
+      width: 33.3%
+    }
+    
+    .stat_themes_line {
+      width:100%;
+      display:inline-block;
+    }
+    
+    .stat_theme_categ {
+      padding-left:25px;
+      padding-top:5px;
+      padding-bottom:5px;
+    }
