@@ -1,3 +1,4 @@
 # js-data-visualization
-![Capture challenge](https://github.com/user-attachments/assets/98c1df91-d7fd-450d-a137-f7da9096f47f)
+!![Capture d’écran 2024-07-15 095920](https://github.com/user-attachments/assets/0c5fb472-5702-4d01-a383-4bcd476c947d)
+
 
